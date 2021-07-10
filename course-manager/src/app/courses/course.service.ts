@@ -19,7 +19,7 @@ export class courseService {
     {
         id: 1,
         name: 'Angular: CLI',
-        releaseDate: 'November 2, 2019',
+        releaseDate: 'Julho 10, 2021',
         description: 'Neste curso, os alunos irão obter um grande conhecimento nos principais recursos do CLI.',
         duration: 120,
         code: 'XLF-1212',
@@ -30,7 +30,7 @@ export class courseService {
     {
         id: 2,
         name: 'Angular: Forms',
-        releaseDate: 'November 4, 2019',
+        releaseDate: 'Julho 8, 2021',
         description: 'Neste curso, os alunos irão obter um conhecimento aprofundado sobre os recursos disponíveis no módulo de Forms.',
         duration: 80,
         code: 'DWQ-3412',
@@ -41,7 +41,7 @@ export class courseService {
     {
         id: 3,
         name: 'Angular: HTTP',
-        releaseDate: 'November 8, 2019',
+        releaseDate: 'Julho 11, 2021',
         description: 'Neste curso, os alunos irão obter um conhecimento aprofundado sobre os recursos disponíveis no módulo de HTTP.',
         duration: 80,
         code: 'QPL-0913',
@@ -52,7 +52,7 @@ export class courseService {
     {
         id: 4,
         name: 'Angular: Router',
-        releaseDate: 'November 16, 2019',
+        releaseDate: 'Julho 12, 2021',
         description: 'Neste curso, os alunos irão obter um conhecimento aprofundado sobre os recursos disponíveis no módulo de Router.',
         duration: 80,
         code: 'OHP-1095',
@@ -63,7 +63,7 @@ export class courseService {
     {
         id: 5,
         name: 'Angular: Animations',
-        releaseDate: 'November 25, 2019',
+        releaseDate: 'Julho 13, 2021',
         description: 'Neste curso, os alunos irão obter um conhecimento aprofundado sobre os recursos disponíveis sobre Animation.',
         duration: 80,
         code: 'PWY-9381',
