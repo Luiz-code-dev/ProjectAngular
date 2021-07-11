@@ -9,4 +9,5 @@ export class Course {
     rating: number;
     releaseDate: string;
     description: string;
+    static find: any;
 }
